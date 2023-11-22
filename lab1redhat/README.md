@@ -28,7 +28,7 @@
 ### 4. Create the following hierarchy under your home directory:
 ![UNFOUND]()
   
-    ![UNFOUND](img1.jpeg)
+    ![UNFOUND](img1)
   - a. hghghkk
     
   
