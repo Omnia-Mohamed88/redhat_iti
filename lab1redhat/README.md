@@ -27,7 +27,7 @@
 
 ### 4. Create the following hierarchy under your home directory:
  
-    ![image 1]("https://github.com/Omnia-Mohamed88/redhat_iti/blob/main/lab1redhat/img1.jpeg")
+    ![image 1](img1)
     
   - a. hghghkk
     
