@@ -8,27 +8,27 @@ a. Move the cursor down one line at time.
 
 j
 
-![UNFOUND](q2.1.jfif)
+![UNFOUND](Q2.1.jfif)
 
 #### b. Move the cursor up one line at time.
  k
 
-![UNFOUND](q2.2.jfif)
+![UNFOUND](Q2.2.jfif)
 
 #### c. Search for word age
  /age
 
-![UNFOUND](q2.3.jfif)
+![UNFOUND](Q2.3.jfif)
 
 #### d. Step to line 5 (assuming that you are in line 1 and file is more than 5 lines).
  :5
 
-![UNFOUND](q2.4.jfif)
+![UNFOUND](Q2.4.jfif)
 
 #### e. Delete the line you are on and line 5.
  D
 
-![UNFOUND](q2.5.jfif)
+![UNFOUND](Q2.5.jfif)
 
 #### f. How to step to the end of line and change to writing mode in one-step.
  $
